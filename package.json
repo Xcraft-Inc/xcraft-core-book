@@ -1,7 +1,7 @@
 {
-  "name": "xcraft-core-utils",
-  "version": "3.1.2",
-  "description": "Xcraft utils",
+  "name": "xcraft-core-book",
+  "version": "1.0.0",
+  "description": "Xcraft spell book",
   "main": "index.js",
   "engines": {
     "node": ">=6"
@@ -11,37 +11,27 @@
   },
   "keywords": [
     "xcraft",
-    "utils",
-    "helpers"
+    "book",
+    "database",
+    "sqlite"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Xcraft-Inc/xcraft-core-utils.git"
+    "url": "git+https://github.com/Xcraft-Inc/xcraft-core-book.git"
   },
   "author": "Mathieu Schroeter",
   "license": "MIT",
   "dependencies": {
-    "ansi-regex": "^2.1.1",
+    "better-sqlite3": "^7.1.1",
     "cli-color": "^1.2.0",
-    "escape-regexp": "0.0.1",
-    "escape-string-regexp": "^1.0.5",
-    "figlet": "^1.2.1",
     "gigawatts": "^4.0.1",
-    "js-yaml": "^3.9.0",
-    "linked-list": "^1.0.4",
-    "lodash": "^4.17.20",
-    "locks": "^0.2.2",
-    "prop-types": "^15.7.2",
-    "uuid": "^8.3.2",
-    "xcraft-core-fs": "^2.0.0"
-  },
-  "optionalDependencies": {
-    "better-sqlite3": "^7.1.1"
+    "xcraft-core-fs": "^2.0.0",
+    "xcraft-core-utils": "^3.1.2"
   },
   "bugs": {
-    "url": "https://github.com/Xcraft-Inc/xcraft-core-utils/issues"
+    "url": "https://github.com/Xcraft-Inc/xcraft-core-book/issues"
   },
-  "homepage": "https://github.com/Xcraft-Inc/xcraft-core-utils#readme",
+  "homepage": "https://github.com/Xcraft-Inc/xcraft-core-book#readme",
   "devDependencies": {
     "prettier": "2.0.4",
     "xcraft-dev-prettier": "^2.0.0",

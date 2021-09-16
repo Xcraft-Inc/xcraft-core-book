@@ -1,3 +1,3 @@
-# xcraft-core-utils
+# xcraft-core-book
 
-Xcraft utils
+Xcraft spell book
