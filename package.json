@@ -25,6 +25,7 @@
     "cli-color": "^1.2.0",
     "gigawatts": "^4.0.1",
     "xcraft-core-fs": "^2.0.0",
+    "xcraft-core-log": "^2.1.1",
     "xcraft-core-utils": "^4.0.0"
   },
   "optionalDependencies": {
