@@ -40,5 +40,8 @@
     "xcraft-dev-prettier": "^2.0.0",
     "xcraft-dev-rules": "^4.4.2"
   },
+  "peerDependencies": {
+    "node-sqlite3-wasm": "^0.8.22"
+  },
   "prettier": "xcraft-dev-prettier"
 }
