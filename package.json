@@ -43,5 +43,10 @@
   "peerDependencies": {
     "better-sqlite3": "^11.3.0"
   },
+  "peerDependenciesMeta": {
+    "better-sqlite3": {
+      "optional": true
+    }
+  },
   "prettier": "xcraft-dev-prettier"
 }
