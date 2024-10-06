@@ -29,6 +29,7 @@
     "xcraft-core-utils": "^4.0.0"
   },
   "optionalDependencies": {
+    "better-sqlite3": "10.1.0",
     "node-sqlite3-wasm": "^0.8.22"
   },
   "bugs": {
@@ -39,14 +40,6 @@
     "prettier": "2.0.4",
     "xcraft-dev-prettier": "^2.0.0",
     "xcraft-dev-rules": "^4.4.2"
-  },
-  "peerDependencies": {
-    "better-sqlite3": "10.1.0"
-  },
-  "peerDependenciesMeta": {
-    "better-sqlite3": {
-      "optional": true
-    }
   },
   "prettier": "xcraft-dev-prettier"
 }
