@@ -41,7 +41,7 @@
     "xcraft-dev-rules": "^4.4.2"
   },
   "peerDependencies": {
-    "better-sqlite3": "11.1.2"
+    "better-sqlite3": "10.1.0"
   },
   "peerDependenciesMeta": {
     "better-sqlite3": {
