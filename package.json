@@ -29,7 +29,7 @@
     "xcraft-core-utils": "^4.0.0"
   },
   "optionalDependencies": {
-    "better-sqlite3": "10.1.0",
+    "better-sqlite3": "^11.3.0",
     "node-sqlite3-wasm": "^0.8.22"
   },
   "bugs": {
