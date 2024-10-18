@@ -30,7 +30,7 @@
   },
   "optionalDependencies": {
     "better-sqlite3": "^11.3.0",
-    "node-sqlite3-wasm": "^0.8.22"
+    "node-sqlite3-wasm": "^0.8.24"
   },
   "bugs": {
     "url": "https://github.com/Xcraft-Inc/xcraft-core-book/issues"
