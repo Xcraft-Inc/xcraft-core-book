@@ -1,6 +1,6 @@
 {
   "name": "xcraft-core-book",
-  "version": "1.12.2",
+  "version": "1.12.3",
   "description": "Xcraft spell book",
   "main": "index.js",
   "engines": {
