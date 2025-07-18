@@ -19,7 +19,15 @@
     "type": "git",
     "url": "git+https://github.com/Xcraft-Inc/xcraft-core-book.git"
   },
-  "author": "Mathieu Schroeter",
+  "author": "Epsitec SA",
+  "contributors": [
+    "Mathieu Schroeter <schroeter@epsitec.ch>",
+    "Samuel Loup <loup@epsitec.ch>",
+    "Gillian Fries <fries@epsitec.ch>",
+    "Yannick Vessaz <vessaz@epsitec.ch>",
+    "Jonny Quarta <quarta@epsitec.ch>",
+    "Louis-Samuel Leuenberger <leuenberger@epsitec.ch>"
+  ],
   "license": "MIT",
   "dependencies": {
     "fs-extra": "^11.3.0",
